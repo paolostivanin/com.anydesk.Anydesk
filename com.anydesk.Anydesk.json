@@ -1,7 +1,7 @@
 {
     "app-id": "com.anydesk.Anydesk",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "3.28",
+    "runtime-version": "3.36",
     "sdk": "org.gnome.Sdk",
     "command": "anydesk",
     "separate-locales": false,
@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.x.org/releases/individual/lib/libXmu-1.1.2.tar.bz2",
-                    "sha256": "756edc7c383254eef8b4e1b733c3bf1dc061b523c9f9833ac7058378b8349d0b"
+                    "url": "https://www.x.org/releases/individual/lib/libXmu-1.1.3.tar.bz2",
+                    "sha256": "5bd9d4ed1ceaac9ea023d86bf1c1632cd3b172dce4a193a72a94e1d9df87a62e"
                 }
             ]
         },
@@ -105,8 +105,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.kernel.org/pub/software/utils/pciutils/pciutils-3.5.6.tar.xz",
-                    "sha256": "f346eeb90cce0910c05b877fe49eadc760fa084c0455fd313e39d4b2c2d4bb21"
+                    "url": "https://www.kernel.org/pub/software/utils/pciutils/pciutils-3.6.4.tar.xz",
+                    "sha256": "f67ff732976e2db2a5ccdf3960020796526ba6b05f6b1cdd24b7b206af706055"
                 }
             ]
         },
